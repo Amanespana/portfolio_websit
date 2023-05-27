@@ -3499,7 +3499,7 @@ input, select, textarea {
 		}
 
 		#banner.style3:after {
-			background-color: #ec8d81;
+			background-color: #306998/*#ec8d81*/;
 		}
 
 		#banner.style4:after {
@@ -3507,7 +3507,7 @@ input, select, textarea {
 		}
 
 		#banner.style5:after {
-			background-color: #8ea9e8;
+			background-color: #F9C70C/*#8ea9e8*/;
 		}
 
 		#banner.style6:after {

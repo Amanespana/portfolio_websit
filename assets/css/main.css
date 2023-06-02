@@ -3373,6 +3373,12 @@ input, select, textarea {
 
 		}
 
+		ul.side-by-side li {
+			display: inline-block;
+			margin-right: 10px;
+		  }
+		  
+
 /* Banner */
 
 	#banner {

@@ -1,3 +1,3 @@
 # portfolio_websit
 
-![queries](images/carbon.png)
+![queries](images/carbon_white.png)

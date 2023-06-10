@@ -2839,7 +2839,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #5ce1e6;
+				background-color: #6fc3df
 			}
 
 			.tiles article:nth-child(6n - 2):before {

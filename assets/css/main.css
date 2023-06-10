@@ -2831,7 +2831,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #32a868;
+				background-color: #e7b788/*#32a868*/;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
@@ -2839,15 +2839,15 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #306998;
+				background-color: #5ce1e6;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #F9C70C;
+				background-color: #e7b788/*#F9C70C8*/;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
-				background-color: #8ea9e8;
+				background-color: #ec8d81/*#8ea9e8*/;
 			}
 
 			.tiles article:nth-child(6n):before {

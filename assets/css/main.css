@@ -2835,19 +2835,19 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #306998/*#B3C7DF;/*#808080;*/
+				background-color: #6fc3df/*#B3C7DF;/*#808080;*/
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #6fc3df
+				background-color: #8ea9e8
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #e7b788/*#F9C70C8*/;
+				background-color: #ec8d81/*#F9C70C8*/;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
-				background-color: #ec8d81/*#8ea9e8*/;
+				background-color: #e7b788/*#8ea9e8*/;
 			}
 
 			.tiles article:nth-child(6n):before {

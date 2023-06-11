@@ -2224,6 +2224,14 @@ input, select, textarea {
 
 			}		
 
+			.round-profile-pic {
+				width: 250px; /* Adjust the width of the profile picture as needed */
+				height: 250px; /* Adjust the height of the profile picture as needed */
+				border-radius: 50%; /* Makes the picture round */
+				float: right; /* Positions the picture on the right side of the container */
+				margin-left: 20px; /* Adds some spacing between the picture and the content */
+			  }
+			  
 /* List */
 
 	ol {

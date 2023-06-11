@@ -180,6 +180,10 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	.larger-text {
+		font-size: 30px; /* Larger font size */
+	  }
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 600;
@@ -3609,7 +3613,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		background-color: #434c7d;
 	}
 
 		#main > * {
@@ -3640,6 +3644,7 @@ input, select, textarea {
 			background-color: transparent;
 			border-bottom: solid 1px rgba(212, 212, 255, 0.1);
 		}
+		
 
 /* Contact */
 
